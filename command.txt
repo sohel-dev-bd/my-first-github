@@ -1,0 +1,9 @@
+# one time each project to start git 
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/sohel-dev-bd/my-first-github.git
+git push -u origin main
+
+
